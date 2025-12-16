@@ -1,16 +1,22 @@
-## Hi there 👋
+# Conner Homrighaus
+Computer Science & Mathematics | Security | Systems | Networking
 
-<!--
-**CHomrighausOfficial/CHomrighausOfficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build security-focused systems that combine networking, probabilistic modeling,
+and practical threat detection. My work emphasizes reproducibility, testing,
+and clear threat models.
 
-Here are some ideas to get you started:
+## Featured Projects
+- VPN from Scratch — encrypted tunneling & performance evaluation
+- Network Intrusion Detection System — packet analysis & alerting
+- Serverless Security Log Analyzer — cloud-scale log correlation
+- Password Entropy Analyzer — realistic password strength evaluation
+- RNG Test Suite — statistical randomness testing
+- Attack Probability Models — probabilistic security modeling
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Interests
+- Network Security & Protocols
+- Intrusion Detection & Traffic Analysis
+- Cryptography (applied)
+- Probabilistic Modeling of Attacks
+- Linux & Systems Programming
+
