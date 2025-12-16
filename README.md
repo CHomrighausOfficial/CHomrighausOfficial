@@ -34,6 +34,7 @@ expanding into hands-on cloud security and detection engineering.
 - C#
 - Java
 - Python
+- Cuda
 - SQL
 - PowerShell
 - Linux (Bash, system tooling)
