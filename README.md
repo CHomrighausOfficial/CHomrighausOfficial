@@ -5,6 +5,10 @@ I build security-focused systems that combine networking, probabilistic modeling
 and practical threat detection. My work emphasizes reproducibility, testing,
 and clear threat models.
 
+# Degrees
+- Computer Science with an emphasis in Cyber Security
+- Mathematics with an emphasis in Computer Science
+
 ## Featured Projects
 - VPN from Scratch — encrypted tunneling & performance evaluation
 - Network Intrusion Detection System — packet analysis & alerting
