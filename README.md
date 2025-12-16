@@ -20,3 +20,12 @@ and clear threat models.
 - Probabilistic Modeling of Attacks
 - Linux & Systems Programming
 
+## Programming Languages
+- C
+- C++
+- C#
+- Java
+- Python
+- SQL
+- Linux
+- Powershell
